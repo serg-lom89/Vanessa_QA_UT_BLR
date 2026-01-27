@@ -8,7 +8,7 @@
 
 ## Для написания сценарных тестов использовался инструмент:
 
-  [vanessa-automation](ttps://github.com/Pr-Mex/vanessa-automation)
+  [vanessa-automation](https://github.com/Pr-Mex/vanessa-automation)
 
 # Полезные ссылки
  - [Канал с уроками](https://www.youtube.com/@VanessaAutomationDocs1241)
