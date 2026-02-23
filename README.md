@@ -13,13 +13,12 @@
 ## Для написания сценарных тестов использовался инструмент:
   [vanessa-automation](https://github.com/Pr-Mex/vanessa-automation)
 
+### Примеры видеоинструкций
+[Пример видеоинструкций с озвучкой](https://github.com/serg-lom89/Vanessa_QA_UT_BLR/tree/main/video)
+
 # Полезные ссылки:
  - [Канал с уроками](https://www.youtube.com/@VanessaAutomationDocs1241)
- - [tg канал - testspro1c](https://t.me/testspro1c)
-
-# Примеры видеоинструкций
-[Пример видеоинструкций с озвучкой](https://github.com/serg-lom89/Vanessa_QA_UT_BLR/tree/main/video)
- 
+ - [tg канал - testspro1c](https://t.me/testspro1c) 
 
 ## Обо мне:
  Меня зовут Езерский Сергей.  
