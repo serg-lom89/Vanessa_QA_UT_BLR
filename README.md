@@ -17,6 +17,10 @@
  - [Канал с уроками](https://www.youtube.com/@VanessaAutomationDocs1241)
  - [tg канал - testspro1c](https://t.me/testspro1c)
 
+# Примеры видеоинструкций
+[Пример видеоинструкций с озвучкой](https://github.com/serg-lom89/Vanessa_QA_UT_BLR/tree/main/video)
+ 
+
 ## Обо мне:
  Меня зовут Езерский Сергей.  
  Являюсь разработчиком 1С.  
